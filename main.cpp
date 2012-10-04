@@ -2,7 +2,7 @@
 using namespace std;
 
 int sudetis(int x, int y){
-	return x + y;
+	return x + y+5;
 }
 int main (int argc, char const *argv[])
 {
